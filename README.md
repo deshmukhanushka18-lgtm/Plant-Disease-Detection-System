@@ -1,5 +1,5 @@
 # Plant-Disease-Detection-System
-Full-stack weather app (HTML/CSS/JS + Java Spring Boot) with ML model
+Full-stack weather app (HTML/CSS/JS + Python) with ML model
 
 
 Output: 
